@@ -73,5 +73,5 @@ To set up the project locally for development and testing, follow these steps:
 
 <br><br>
 
-*Thanks for checking out my Asseembly - Endgame App! Have fun playing! 😄*   
+*Thanks for checking out my Assembly - Endgame App! Have fun playing! 😄*   
 
